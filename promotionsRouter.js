@@ -26,4 +26,5 @@ promotionsRouter
 		res.end(`Deleting all the promotions`);
 	});
 
+
 module.exports = promotionsRouter;
